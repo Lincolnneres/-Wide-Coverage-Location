@@ -138,8 +138,10 @@ img {
   }
 
   .cadastro {
-  
+  position: fixed;
+    rigth:40px;
+    
    
-    margin-top: -7rem;
+    
   }
 }
