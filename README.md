@@ -50,7 +50,7 @@ O **Wide Coverage Location** é uma landing page mobile-first que apresenta uma 
 
 👉 [Clique aqui para acessar](https://lincolnneres.github.io/-Wide-Coverage-Location/)
 
-> Troque o link pelo seu endereço do GitHub Pages.
+
 
 ---
 
