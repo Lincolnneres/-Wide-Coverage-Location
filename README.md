@@ -48,7 +48,7 @@ O **Wide Coverage Location** é uma landing page mobile-first que apresenta uma 
 
 ## 🌐 Acesse o Projeto
 
-👉 [Clique aqui para acessar](https://seu-usuario.github.io/wide-coverage-location)
+👉 [Clique aqui para acessar](https://lincolnneres.github.io/-Wide-Coverage-Location/)
 
 > Troque o link pelo seu endereço do GitHub Pages.
 
